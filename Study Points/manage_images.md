@@ -9,8 +9,8 @@
 `Temp`
 
 ### Understand and use image tags
-
-`Temp`
+- Supports multiple releases of same image
+- Useful for multiple versions of same software (container or latest updates of saem software)
 
 ### Push and pull images from and to registries
 1. Pull

@@ -82,10 +82,10 @@
 
 `TODO`
 
-### Understand security and permissions requirements related to this approach
+### a. Understand security and permissions requirements related to this approach
 
 `TODO`
 
-### Understand lifecycle and cleanup requirements of this approach
+### b. Understand lifecycle and cleanup requirements of this approach
 
 `TODO`
