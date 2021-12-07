@@ -2,11 +2,11 @@
 
 ### Understand private registry security
 
-`Temp`
+***`TODO`***
 
 ### Interact with many different registries
 
-`Temp`
+***`TODO`***
 
 ### Understand and use image tags
 - Supports multiple releases of same image
@@ -29,4 +29,4 @@
 - `podman save [-o FILE_NAME] IMAGE_NAME[:TAG]` 
 - `podman save -o mysql.tar registry.redhat.io/rhel8/mysql-80`
 2. Backup Container State
-- ***TODO***
+- ***`TODO`***

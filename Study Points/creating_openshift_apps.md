@@ -2,16 +2,16 @@
 
 ### Create, manage and delete projects from a template, from source code, and from an image
 
-`Temp`
+***`TODO`***
 
 ### Customize catalog template parameters
 
-`Temp`
+***`TODO`***
 
 ### Specifying environment parameters
 
-`Temp`
+***`TODO`***
 
 ### Expose public applications 
 
-`Temp`
+***`TODO`***

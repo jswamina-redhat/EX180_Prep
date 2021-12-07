@@ -36,11 +36,11 @@
 ### Understand and use WORKDIR and USER instructions
 - `USER`: specifies username or UID to use when running container image for `RUN`, `CMD`, and `ENTRYPOINT`
 - Define a user other than `root` for security reasons
-- `WORKDIR`: ***TODO***
+- `WORKDIR`: ***`TODO`***
 
 ### Understand security-related topics
 
-***TODO***
+***`TODO`***
 
 ### Understand the differences and applicability of CMD vs ENTRYPOINT instructions
 1. Exec form (using a JSON array, Preferred]:
@@ -67,7 +67,7 @@
 
 ### Understand and use environment variables inside images
 
-`TODO`
+***`TODO`***
 
 ### Understand ENV instruction
 - Defines environment vars that are available in container
@@ -76,16 +76,16 @@
 
 ### Understand container volume
 
-`TODO`
+***`TODO`***
 
 ### Mount a host directory as a data volume
 
-`TODO`
+***`TODO`***
 
 ### a. Understand security and permissions requirements related to this approach
 
-`TODO`
+***`TODO`***
 
 ### b. Understand lifecycle and cleanup requirements of this approach
 
-`TODO`
+***`TODO`***

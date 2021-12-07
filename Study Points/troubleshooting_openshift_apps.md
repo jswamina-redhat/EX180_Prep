@@ -2,20 +2,20 @@
 
 ### Understand the description of application resources
 
-`Temp`
+***`TODO`***
 
 ### Get application logs
 
-`Temp`
+***`TODO`***
 
 ### Inspect running applications
 
-`Temp`
+***`TODO`***
 
 ### Connecting to containers running in a pod
 
-`Temp`
+***`TODO`***
 
 ### Copy resources to/from containers running in a pod
 
-`Temp`
+***`TODO`***
