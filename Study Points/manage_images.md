@@ -5,8 +5,15 @@
 ***`TODO`***
 
 ### Interact with many different registries
-
-***`TODO`***
+1. Configuring Registries
+- Update `/etc/containers/registries.conf` file
+- Edit `registries` entry in the `[registries.search]` section
+- Ex: `registries = ["registry.access.redhat.com", "quay.io"]`
+- Secure connections require trusted certficate
+- To support insecure connection, add registry name to `registries` entry in `[registries.insecure]` section
+2. Accessing Registries
+- `podman search` to find images by image name/user name/desc. from all registries listed in config. file
+- `podman search [OPTIONS] <term>`
 
 ### Understand and use image tags
 - Supports multiple releases of same image
