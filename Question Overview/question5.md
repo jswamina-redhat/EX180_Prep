@@ -1,1 +1,0 @@
-## Question Five Hints/Tips
