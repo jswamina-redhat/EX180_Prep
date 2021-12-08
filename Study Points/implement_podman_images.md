@@ -43,7 +43,7 @@
 ***`TODO`***
 
 ### Understand the differences and applicability of CMD vs ENTRYPOINT instructions
-1. Exec form (using a JSON array, Preferred]:
+1. Exec form (using a JSON array, *Preferred*]:
 - `ENTRYPOINT ["command", "param1", "param2"]`
 - `CMD ["param1", "param2"]`
 2. Shell form:
@@ -76,7 +76,7 @@
 
 ### Understand container volume
 
-***`TODO`***
+***`N/A`***
 
 ### Mount a host directory as a data volume
 
