@@ -5,8 +5,10 @@
 ***`TODO`***
 
 ### Get application logs
-
-***`TODO`***
+- `podman exec [options] container command [arguments]`
+- Ex: `podman exec apache-container cat /var/log/httpd/error_log`
+- `oc exec [options] pod [-c container] -- command [arguments]`
+- Ex: `oc exec -it myhttpdpod /bin/bash`
 
 ### Inspect running applications
 
